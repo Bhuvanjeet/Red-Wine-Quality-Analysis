@@ -13,7 +13,8 @@ https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
 ## Project overview
 
 1. Exploratory Data Analysis (EDA)
-2. Train and Test Split
+2. Data Preprocessing and decomposition
+3. Train and Test Split
 3. Application of Machine Learning Algorithms (using scikit-learn for python)
    1. Logistic Regression
    2. Random Forest Classifier

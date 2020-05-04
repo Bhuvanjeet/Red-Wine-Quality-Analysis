@@ -9,6 +9,8 @@ These datasets can be viewed as classification or regression tasks. The classes 
 
 https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
 
+Download the dataset in .csv format and name it as 'winequality_red.csv' and save it where 'red_wine.ipynb' file is cloned.
+
 
 ## Project overview
 
@@ -18,5 +20,6 @@ https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
 3. Application of Machine Learning Algorithms (using scikit-learn for python)
    1. Logistic Regression
    2. Random Forest Classifier
-   3. Support Vector Machine
-4. Results and Comparison
+   3. Naive Bayes Classifier
+   4. Support Vector Machine
+4. Results and Comparison.
